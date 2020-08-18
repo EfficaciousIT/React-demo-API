@@ -1,0 +1,250 @@
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\NewDemo.dll.config
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\NewDemo.dll
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\NewDemo.pdb
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\roslyn\csc.exe
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\roslyn\csc.exe.config
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\roslyn\csc.rsp
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\roslyn\csi.exe
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\roslyn\csi.exe.config
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\roslyn\csi.rsp
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\roslyn\System.AppContext.dll
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\roslyn\System.Collections.Immutable.dll
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\roslyn\System.Console.dll
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\roslyn\System.IO.Compression.dll
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\roslyn\System.IO.FileSystem.dll
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\roslyn\System.IO.Pipes.dll
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\roslyn\System.Reflection.Metadata.dll
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\roslyn\System.Security.AccessControl.dll
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\roslyn\System.Security.Claims.dll
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\roslyn\System.ValueTuple.dll
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\roslyn\System.Xml.XPath.dll
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\roslyn\vbc.exe
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\roslyn\vbc.exe.config
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\roslyn\vbc.rsp
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\roslyn\VBCSCompiler.exe
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\roslyn\VBCSCompiler.exe.config
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\Antlr3.Runtime.dll
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\Microsoft.Web.Infrastructure.dll
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\Newtonsoft.Json.dll
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\System.Net.Http.Formatting.dll
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\System.Web.Helpers.dll
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\System.Web.Http.dll
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\System.Web.Http.WebHost.dll
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\System.Web.Mvc.dll
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\System.Web.Optimization.dll
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\System.Web.Razor.dll
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\System.Web.WebPages.Deployment.dll
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\System.Web.WebPages.dll
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\System.Web.WebPages.Razor.dll
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\WebGrease.dll
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\Antlr3.Runtime.pdb
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\System.Web.Helpers.xml
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\System.Web.Mvc.xml
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\System.Web.Optimization.xml
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\System.Web.Razor.xml
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\System.Web.WebPages.xml
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\System.Web.WebPages.Deployment.xml
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\System.Web.WebPages.Razor.xml
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\Newtonsoft.Json.xml
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\System.Net.Http.Formatting.xml
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\System.Web.Http.xml
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\System.Web.Http.WebHost.xml
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\obj\Debug\NewDemo.csprojAssemblyReference.cache
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\obj\Debug\NewDemo.csproj.CoreCompileInputs.cache
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\obj\Debug\NewDemo.csproj.CopyComplete
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\obj\Debug\NewDemo.dll
+D:\Nikhil\New Demo APP\NewDemo\NewDemo\obj\Debug\NewDemo.pdb
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\NewDemo.dll.config
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\NewDemo.dll
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\NewDemo.pdb
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\roslyn\csc.exe
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\roslyn\csc.exe.config
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\roslyn\csc.rsp
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\roslyn\csi.exe
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\roslyn\csi.exe.config
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\roslyn\csi.rsp
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\roslyn\System.AppContext.dll
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\roslyn\System.Collections.Immutable.dll
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\roslyn\System.Console.dll
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\roslyn\System.IO.Compression.dll
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\roslyn\System.IO.FileSystem.dll
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\roslyn\System.IO.Pipes.dll
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\roslyn\System.Reflection.Metadata.dll
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\roslyn\System.Security.AccessControl.dll
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\roslyn\System.Security.Claims.dll
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\roslyn\System.ValueTuple.dll
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\roslyn\System.Xml.XPath.dll
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\roslyn\vbc.exe
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\roslyn\vbc.exe.config
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\roslyn\vbc.rsp
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\roslyn\VBCSCompiler.exe
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\roslyn\VBCSCompiler.exe.config
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\Antlr3.Runtime.dll
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\Microsoft.Web.Infrastructure.dll
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\Newtonsoft.Json.dll
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\System.Net.Http.Formatting.dll
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\System.Web.Helpers.dll
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\System.Web.Http.dll
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\System.Web.Http.WebHost.dll
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\System.Web.Mvc.dll
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\System.Web.Optimization.dll
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\System.Web.Razor.dll
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\System.Web.WebPages.Deployment.dll
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\System.Web.WebPages.dll
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\System.Web.WebPages.Razor.dll
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\WebGrease.dll
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\Antlr3.Runtime.pdb
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\System.Web.Helpers.xml
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\System.Web.Mvc.xml
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\System.Web.Optimization.xml
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\System.Web.Razor.xml
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\System.Web.WebPages.xml
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\System.Web.WebPages.Deployment.xml
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\System.Web.WebPages.Razor.xml
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\Newtonsoft.Json.xml
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\System.Net.Http.Formatting.xml
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\System.Web.Http.xml
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\System.Web.Http.WebHost.xml
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\obj\Debug\NewDemo.csprojResolveAssemblyReference.cache
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\obj\Debug\NewDemo.dll
+E:\Application UAT live\wwwroot\Mumbai\NewDemoAPP\New Demo API\NewDemo\NewDemo\obj\Debug\NewDemo.pdb
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\NewDemo.dll.config
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\NewDemo.dll
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\NewDemo.pdb
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\roslyn\csc.exe
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\roslyn\csc.exe.config
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\roslyn\csc.rsp
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\roslyn\csi.exe
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\roslyn\csi.exe.config
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\roslyn\csi.rsp
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\roslyn\System.AppContext.dll
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\roslyn\System.Collections.Immutable.dll
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\roslyn\System.Console.dll
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\roslyn\System.IO.Compression.dll
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\roslyn\System.IO.FileSystem.dll
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\roslyn\System.IO.Pipes.dll
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\roslyn\System.Reflection.Metadata.dll
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\roslyn\System.Security.AccessControl.dll
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\roslyn\System.Security.Claims.dll
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\roslyn\System.ValueTuple.dll
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\roslyn\System.Xml.XPath.dll
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\roslyn\vbc.exe
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\roslyn\vbc.exe.config
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\roslyn\vbc.rsp
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\roslyn\VBCSCompiler.exe
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\roslyn\VBCSCompiler.exe.config
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\Antlr3.Runtime.dll
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\Microsoft.Web.Infrastructure.dll
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\Newtonsoft.Json.dll
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\System.Net.Http.Formatting.dll
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\System.Web.Helpers.dll
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\System.Web.Http.dll
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\System.Web.Http.WebHost.dll
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\System.Web.Mvc.dll
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\System.Web.Optimization.dll
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\System.Web.Razor.dll
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\System.Web.WebPages.Deployment.dll
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\System.Web.WebPages.dll
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\System.Web.WebPages.Razor.dll
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\WebGrease.dll
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\Antlr3.Runtime.pdb
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\System.Web.Helpers.xml
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\System.Web.Mvc.xml
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\System.Web.Optimization.xml
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\System.Web.Razor.xml
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\System.Web.WebPages.xml
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\System.Web.WebPages.Deployment.xml
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\System.Web.WebPages.Razor.xml
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\Newtonsoft.Json.xml
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\System.Net.Http.Formatting.xml
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\System.Web.Http.xml
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\System.Web.Http.WebHost.xml
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Application Live\Mumbai\React Demo API\NewDemo\obj\Debug\NewDemo.csprojResolveAssemblyReference.cache
+D:\Application Live\Mumbai\React Demo API\NewDemo\obj\Debug\NewDemo.dll
+D:\Application Live\Mumbai\React Demo API\NewDemo\obj\Debug\NewDemo.pdb
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\Microsoft.IdentityModel.Logging.dll
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\Microsoft.IdentityModel.Logging.xml
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Application Live\Mumbai\React Demo API\NewDemo\bin\System.IdentityModel.Tokens.Jwt.xml
